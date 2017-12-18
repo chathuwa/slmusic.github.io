@@ -1,0 +1,359 @@
+/******All mobile for will applied*****/
+/*start for mobile*/
+
+@media only screen and  (max-width: 767px) {
+    .text-39 {
+        margin-top: 2.5em;
+        font-size: 1.7em;
+        line-height: 1;
+        font-weight: 600;
+    }
+
+    .pad-5 {
+        padding-right: 0px;
+    }
+
+    .img-h-1 {
+        height: auto;
+        max-height: auto;
+        object-fit: cover;
+    }
+
+    .pad-14 {
+        padding: 0em 0.6em 0.6em 0.6em;
+    }
+
+    .gz-audio-img img, .gz-video-img img {
+        object-fit: cover;
+        height: auto;
+        max-height: auto;
+    }
+
+    .v-align {
+        /*display: flex;*/
+        justify-content: center;
+        align-items: center;
+        flex-flow: column;
+        height: 10em;
+    }
+
+    .v-align-1 {
+        /*display: flex;*/
+        justify-content: center;
+        align-items: center;
+        flex-flow: column;
+    }
+
+    .text-91 {
+        top: 0em;
+        padding: 4px;
+    }
+
+    .height-2 {
+        height: auto;
+        max-height: auto;
+    }
+
+    .left-content {
+        height: auto;
+        max-height: auto;
+    }
+
+    .text-109 {
+        padding-left: 0em;
+    }
+
+    .text-110 {
+        padding-left: 0em;
+    }
+
+    .top-img-video {
+        background-image: url("../../../content/images/icon/play.png");
+        height: 100%;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        position: absolute;
+        z-index: 99999;
+        width: 100%;
+    }
+
+    .f-si2em-1 {
+        padding: 5px 9px;
+    }
+
+    .f-si2em {
+        padding: 5px 10px;
+    }
+
+    .pagination-1 {
+        font-size: 1.2em;
+    }
+
+    .text-15, .text-15 {
+        padding-left: 0;
+
+    }
+
+}
+
+/*end for mobile*/
+@media only screen and (max-width: 320px) {
+    .text-39 {
+        font-size: 0.8em;
+        line-height: 4;
+    }
+}
+
+@media only screen and (min-width: 320px) and (max-width: 479px) {
+    .text-39 {
+        font-size: 1.3em;
+        line-height: 1;
+
+    }
+
+    .f-si2em-1 {
+        padding: 2px 6px;
+    }
+
+    .f-si2em {
+        padding: 2px 6px;
+    }
+
+    .pagination-1 {
+        font-size: 0.9em;
+    }
+
+}
+
+@media only screen and (min-width: 480px) and (max-width: 521px) {
+    .text-39 {
+        font-size: 1.4em;
+
+    }
+}
+
+@media only screen and (min-width: 520px) and (max-width: 640px) {
+
+}
+
+@media only screen and (min-width: 639px) and (max-width: 767px) {
+
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+    .text-14 {
+        font-size: 0.5em;
+    }
+
+    .left-content {
+        height: 234.8em;
+        max-height: 234.8em;
+    }
+
+    .pad-29 {
+        height: 61.8em;
+    }
+
+    .img-h-1 {
+        height: 9.7em;
+        max-height: 9.7em;
+        object-fit: cover;
+    }
+
+    .carousel-inner > .item > a > img.img-h-1 {
+        height: 9.7em;
+        max-height: 9.7em;
+        object-fit: cover;
+    }
+
+    .height-2 {
+        height: 234.8em;
+        max-height: 234.8em;
+    }
+
+    .pad-7 {
+        height: 196.9em;
+        max-height: 196.9em;
+    }
+
+    .text-15, .text-16 {
+        padding-left: 0;
+
+    }
+
+    .artist-of-week {
+        padding-left: 0.5em;
+        padding-right: 0.5em;
+    }
+
+    .text-39 {
+        font-size: 1.5em;
+    }
+
+    .pad-6 {
+        height: 61.7em;
+    }
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1024px) {
+
+    .pad-7 {
+        height: 120.8em;
+        max-height: 120.8em;
+    }
+
+    .img-h-1 {
+        height: 13em;
+        max-height: 13em;
+        object-fit: cover;
+    }
+
+    .carousel-inner > .item > a > img.img-h-1 {
+        height: 13em;
+        max-height: 13em;
+        object-fit: cover;
+    }
+
+    .height-2 {
+        height: 152.5em;
+        max-height: 152.5em;
+    }
+
+    .pad-6 {
+        height: 44.5em;
+    }
+
+    .left-content {
+        height: 152.2em;
+        max-height: 152.2em;
+    }
+
+}
+
+@media only screen and (min-width: 1025px) and (max-width: 1179px) {
+
+    .img-h-1 {
+        height: 13em;
+        max-height: 13em;
+        object-fit: cover;
+    }
+
+    .carousel-inner > .item > a > img.img-h-1 {
+        height: 13em;
+        max-height: 13em;
+        object-fit: cover;
+    }
+
+    .img-h-1 {
+        height: 13em;
+        max-height: 13em;
+        object-fit: cover;
+    }
+
+    .carousel-inner > .item > a > img.img-h-1 {
+        height: 13em;
+        max-height: 13em;
+        object-fit: cover;
+    }
+
+    .height-2 {
+        height: 152.5em;
+        max-height: 152.5em;
+    }
+
+    .pad-7 {
+        height: 120em;
+        max-height: 120em;
+    }
+
+    .pad-6 {
+        height: 44.5em;
+    }
+
+    .left-content {
+        height: 152.2em;
+        max-height: 152.2em;
+    }
+    .pad-30{
+        height: 149.5em;
+    }
+}
+
+@media only screen and (min-width: 1180px) and (max-width: 1199px) {
+
+    .height-2 {
+        height: 152.5em;
+        max-height: 152.5em;
+    }
+
+    .img-h-1 {
+        height: 13em;
+        max-height: 13em;
+        object-fit: cover;
+    }
+
+    .carousel-inner > .item > a > img.img-h-1 {
+        height: 13em;
+        max-height: 13em;
+        object-fit: cover;
+    }
+
+    .pad-7 {
+        height: 120em;
+        max-height: 120em;
+    }
+
+    .pad-6 {
+        height: 44.5em;
+    }
+
+    .left-content {
+        height: 152.2em;
+        max-height: 152.2em;
+    }
+
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 3199px) {
+
+}
+
+@media only screen and (min-width: 1500px) {
+
+}
+
+@-moz-document url-prefix() {
+
+}
+
+/*
+responsive audio page
+*/
+
+/*ipad tablet */
+@media only screen and (device-width: 768px) {
+    .left-content {
+        height: 222.4em;
+        max-height: 222.4em;
+    }
+
+    .height-2 {
+        height: 222.4em;
+        max-height: 222.4em;
+    }
+
+    .text-15, .text-16 {
+        padding-left: 0;
+
+    }
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: portrait) {
+
+}
+
+@media only screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation: landscape) {
+
+}
